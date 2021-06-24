@@ -1,0 +1,13 @@
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.exe
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.deps.json
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.runtimeconfig.json
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.runtimeconfig.dev.json
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.dll
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\netcoreapp3.1\ConsoleCalculatorApp.pdb
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.AssemblyInfo.cs
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.dll
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.pdb
+C:\Users\nyersm\Documents\Learning Projects\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\netcoreapp3.1\ConsoleCalculatorApp.genruntimeconfig.cache
